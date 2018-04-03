@@ -1,0 +1,16 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 60px;
+    border-left: 3px solid red;
+    padding-left: 10px;
+    background: #666666;
+    color: #fff;
+}
